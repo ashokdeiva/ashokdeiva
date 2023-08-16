@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T09:08:21.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="sqjBVK_O8fUQ7TSsJ82y" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T09:31:09.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="a_tkkv4yxq4LkyOAlfML" version="21.6.8" type="github">
   <diagram name="Page-1" id="pEYqNjetivp1pmSE55BD">
     <mxGraphModel dx="1500" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="8QWJD1ILP6MY7pNboKC3-20" value="You are now being re-directed to the AVO Super app to explore the world of shopping&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="607.5" y="490" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8QWJD1ILP6MY7pNboKC3-21" value="Do you want to proceed ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8QWJD1ILP6MY7pNboKC3-21" value="Please select YES to get to AVO super app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="607.5" y="550" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8QWJD1ILP6MY7pNboKC3-22" value="NO" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" vertex="1" parent="1">
